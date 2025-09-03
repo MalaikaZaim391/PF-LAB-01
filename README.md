@@ -42,5 +42,5 @@ git commit
 
 ### Task Lists
  - [x] #739
- - [ ] https://github.com/octo-org/octo-repo/issues/740 
+ - [ ] Assignments 1 & 2
  - [ ] Add delight to the experience when all tasks are complete :tada:
