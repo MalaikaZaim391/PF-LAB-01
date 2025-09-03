@@ -1,4 +1,4 @@
-# PF-LAB-01
+<img width="1328" height="180" alt="image" src="https://github.com/user-attachments/assets/9ca74841-a0d2-41f3-8d38-7a5940ff3210" /># PF-LAB-01
 Introduction to Github and its various features
 
 # A first-level heading
@@ -16,3 +16,11 @@ Introduction to GitHub
 ## Quoting Text
 Text that is not a quote
 > Text that is quote
+
+## Quoting Code
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
