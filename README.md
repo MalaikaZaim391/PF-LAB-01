@@ -24,3 +24,13 @@ git status
 git add
 git commit
 ```
+## Lists
+### Unordered Lists
+- George Washington
+* John Adams
+* + Thomas Jefferson
+
+### Ordered Lists
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
