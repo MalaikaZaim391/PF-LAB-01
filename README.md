@@ -1,8 +1,4 @@
-I have created my first branch! 
-\
-\
-\
-\
+I have created my first branch! \\\\\\
 
 # PF-LAB-01
 Introduction to Github and its various features
