@@ -14,5 +14,5 @@ Introduction to GitHub
 ~~OOPS I made an error~~
 
 ## Quoting Text
-Text that is not a quote\
+Text that is not a quote
 > Text that is quote
